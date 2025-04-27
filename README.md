@@ -41,7 +41,7 @@ Before running the app, ensure you have the following installed:
 ## App Structure
 
 The app follows this directory structure:
-
+```
 RestaurantChooser/
 ├── assets/            # Contains all images and icons
 ├── components/        # Custom components (CustomButton, CustomTextInput)
@@ -52,6 +52,7 @@ RestaurantChooser/
 ├── App.js             # Main application entry point
 ├── app.json           # Expo configuration
 └── package.json       # Project dependencies
+```
 
 ## Key Features
 
